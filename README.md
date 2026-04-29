@@ -19,6 +19,7 @@ es_extended or qb-core
 
 📦 Requirements Items 
 For Ox Invetory 
+
 `` 
 `	["fakeplate"] = {
 		label = "Fake Plate",
@@ -31,6 +32,7 @@ For Ox Invetory
 ``
 
 For QBCore Invnetory
+
 ``
 ['fakeplate'] 					 = {['name'] = 'fakeplate', 		  	  		['label'] = 'Fake Plate',		 		['weight'] = 250, 		['type'] = 'item', 		['image'] = 'fakeplate.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'With this fake plate, you won\'t be wanted.'},
 ``
