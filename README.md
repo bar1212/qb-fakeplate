@@ -1,8 +1,8 @@
-📄 Fake Plate (Fake Plate Flipper) - Bar Store Release
+📄 `Fake Plate (Fake Plate Flipper) - Bar Store Release`
 
 A FiveM script that allows players to install and toggle a plate flipper on vehicles. Once installed, players can switch between real and fake plates using a keybind.
 
-Supports ESX, QBCore, and ox_inventory.
+Supports `ESX`, `QBCore`, and `ox_inventory`.
 
 ✨ Features
 Install a plate flipper on vehicles
