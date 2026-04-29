@@ -13,7 +13,7 @@ Uses ox_inventory item
 Compatible with ESX & QBCore
 
 📦 Requirements
-ox_inventory
+ox_lib
 es_extended or qb-core
 
 
