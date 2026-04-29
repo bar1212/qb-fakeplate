@@ -12,7 +12,8 @@ Cooldown system to prevent spam
 Uses ox_inventory item
 Compatible with ESX & QBCore
 
-📦 Requirements
+📦 Requirements:
+
 ox_lib
 es_extended or qb-core
 
