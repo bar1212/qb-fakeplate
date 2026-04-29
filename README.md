@@ -37,20 +37,20 @@ For QBCore Invnetory
 ['fakeplate'] 					 = {['name'] = 'fakeplate', 		  	  		['label'] = 'Fake Plate',		 		['weight'] = 250, 		['type'] = 'item', 		['image'] = 'fakeplate.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'With this fake plate, you won\'t be wanted.'},
 ``
 
-⚙️ Configuration
+📁 Installation
 
-``
-Config = {}
--- Key to toggle the plate flipper
-Config.FlipKey = 'INSERT'
--- Cooldown (seconds) between flips
-Config.SwitchCooldown = 50
--- Installation time (ms)
-Config.InstallDuration = 5000
--- Restrict installation to specific jobs
-Config.UseJobCheck = true
--- Allowed jobs
-Config.JobsAllowed = {
-    'tuner'
-}
-``
+Add the fakeplate item to your inventory system (ox or QBCore).
+
+Place the script in your server resources folder.
+
+Add ensure fakeplateflipper to your server.cfg.
+
+Configure the script to your liking in config.lua.
+
+📝 Notes
+
+Players must have the fakeplate item to install the flipper.
+
+The script stores both real and fake plates and switches between them seamlessly.
+
+Works on any vehicle the player owns or is inside (depending on your framework setup).
