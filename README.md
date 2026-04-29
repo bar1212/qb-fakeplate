@@ -14,9 +14,9 @@ Compatible with ESX & QBCore
 
 📦 Requirements:
 
-ox_lib
+`ox_lib`
 
-es_extended or qb-core
+`es_extended` or `qb-core`
 
 📦 Requirements Items:
 
